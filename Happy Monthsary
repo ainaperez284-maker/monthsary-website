@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Happy Monthsary ❤️</title>
+
+    <style>
+        body{
+            font-family: Arial;
+            text-align:center;
+            background:#ffe4ec;
+            padding:50px;
+        }
+
+        h1{
+            color:#ff4f81;
+        }
+
+        img{
+            width:250px;
+            border-radius:20px;
+        }
+
+        .box{
+            background:white;
+            padding:20px;
+            border-radius:20px;
+            max-width:600px;
+            margin:auto;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="box">
+
+<h1>Happy Monthsary ❤️</h1>
+
+<img src="https://via.placeholder.com/250">
+
+<p>
+Thank you for all the memories, love, and happiness.
+Every day with you is my favorite day.
+</p>
+
+<h2>I Love You 💕</h2>
+
+</div>
+
+</body>
+</html>
